@@ -32,5 +32,5 @@ The goal is to derive meaningful insights that can help improve road safety awar
 <img width="1304" height="725" alt="Screenshot 2026-02-22 014823" src="https://github.com/user-attachments/assets/df0da867-170d-460b-b1a2-5c7836c98cf5" />
 
 👨‍💻 Author
-Harsh Gupta
-Aspiring Data Analyst
+  - Harsh Gupta
+  - Aspiring Data Analyst
